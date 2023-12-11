@@ -1,3 +1,7 @@
+/* =======common styles======= */
+/* =======common styles======= */
+images/icons.svg
+
 <svg xmlns="http://www.w3.org/2000/svg" aria-hidden="true" style="position: absolute; width: 0; height: 0; overflow: hidden;">
     <defs>
         <symbol id="icon-linkedin-1" viewBox="0 0 32 32">
@@ -105,5 +109,3 @@
 </symbol>
     </defs>
 </svg>
-
-
